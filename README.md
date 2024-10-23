@@ -9,13 +9,6 @@ This PowerShell script automates the translation of Laravel's `en.json` language
 - **PowerShell**: Ensure PowerShell is available on your system.
 
 ## Setup Instructions
-The best place to mention the link to the PowerShell script that extracts all translatable strings and creates `en.json` would be in the **Setup Instructions** section, as users would likely want to ensure they have all translatable strings ready before running the translation script.
-
-Here's how you can integrate it:
-
----
-
-## Setup Instructions
 
 1. **Clone the Repository** or download or copy the script.
 2. If you don't already have an `en.json` file containing all your translatable strings, you can use this [Blade Translatable Extractor](https://github.com/tauseedzaman/Blade-Translatable-Extractor) PowerShell script to extract them from your Laravel views and generate the `en.json` file.
